@@ -4,7 +4,7 @@
 
 | | Membre A | Membre B |
 | --- | --- | --- |
-| Nom | *à compléter* | *à compléter* |
+| REDOUANE MAAMRI | *à compléter* | *à compléter* |
 | Compte GitHub | *à compléter* | *à compléter* |
 
 **Dépôt** : *adresse du dépôt GitHub, à compléter*
